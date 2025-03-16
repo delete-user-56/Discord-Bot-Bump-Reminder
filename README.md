@@ -1,7 +1,5 @@
 # Discord Bot Bump Reminder
 
-# Discord Bot Bump Reminder
-
 Un bot Discord simple pour automatiser les rappels de "bump" et fournir des informations utiles. Le bot envoie des rappels dans un canal Discord pour que les utilisateurs n'oublient pas de "bump" le serveur.
 
 ## Fonctionnalités
@@ -17,9 +15,7 @@ Un bot Discord simple pour automatiser les rappels de "bump" et fournir des info
 1. Pour télécharger le projet, cliquez sur le lien suivant :  
    [Télécharger le projet](https://github.com/delete-user-56/Discord-Bot-Bump-Reminder/archive/refs/heads/main.zip)
    
-   Une fois téléchargé, extrayez le fichier ZIP dans un dossier sur votre ordinateur.
-
-   ![Téléchargement du fichier](./screenshots/download_project.png)
+2. Une fois téléchargé, extrayez le fichier ZIP dans un dossier sur votre ordinateur.
 
 ### Étape 2 : Ouvrir un terminal
 
