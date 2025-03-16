@@ -6,6 +6,7 @@ Un bot Discord simple pour automatiser les rappels de "bump" et fournir des info
 
 - **+ping** : Vérifie que le bot est en ligne.
 - **+info** : Affiche des informations sur le bot.
+- **+setbump 3** : Modifie la fréquence de rappel (ici réglée sur 3 h).
 - **+help** : Affiche le guide d'aide avec la liste des commandes disponibles.
 
 ## Installation du Bot sur Windows
