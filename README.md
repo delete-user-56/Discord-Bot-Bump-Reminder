@@ -20,9 +20,12 @@ Un bot Discord simple pour automatiser les rappels de "bump" et fournir des info
 ### Étape 2 : Ouvrir un terminal
 
 1. Appuyez sur **Windows + R** pour ouvrir la fenêtre "Exécuter".
-2. 
-3. Tapez `cmd` puis appuyez sur **Entrée**. Cela ouvrira l'invite de commande.
- ![Ouverture CMD](pictures/CMD.png)
+
+![Ouverture Executer](pictures/WIN+R.jpg)
+
+2. Tapez `cmd` puis appuyez sur **Entrée**. Cela ouvrira l'invite de commande.
+
+![Ouverture CMD](pictures/CMD.png)
 
 ### Étape 3 : Installer Python et les dépendances
 
