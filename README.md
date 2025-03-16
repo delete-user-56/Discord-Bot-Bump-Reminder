@@ -54,3 +54,26 @@ Tapez la commande suivante pour installer les dépendances nécessaires :
    ROLE_ID = 1234567890123456789 # Remplacez par l'ID du rôle qui vas etre ping toutes les 5 heurs
    ````
    Si vous n'avez pas de bot Discord, vous pouvez en créer un gratuitement [ici](https://discord.com/developers/applications).
+   Pour plus d'information dans la creation d'un bot c'est [ici](https://www.youtube.com/watch?v=vDmed9KcGRc&pp=ygUVY3LDqWVyIHVuIGJvdCBkaXNjb3Jk)
+   Pour lancer le bot execute simplement le fichier bot.py
+
+   # 💖 Pour me soutenir
+
+Si vous aimez ce projet et que vous souhaitez me soutenir, voici quelques moyens :
+
+🔗 **GitHub**  
+⭐ Ajoutez une étoile au repo ! Cela m'aide énormément.  
+👉 [Mon GitHub](https://github.com/delete-user-56)
+
+💬 **Discord**  
+Rejoignez mon serveur Discord pour discuter, poser vos questions ou me donner des idées !  
+👉 [Mon serveur](https://discord.gg/kkuU6CbQBG)
+
+📺 **YouTube**  
+Abonnez-vous à ma chaîne pour des vidéos de vues aériennes en drone !
+👉 [Ma chaîne YouTube](https://www.youtube.com/@Vulcain56)
+
+📲 **Telegram**  
+Accédez à des logiciels débloqués/crackées et autres ressources intéressantes.
+👉 [Mon Telegram](https://t.me/okcapart)
+Merci pour votre soutien ! 🚀
