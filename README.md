@@ -50,5 +50,7 @@ Tapez la commande suivante pour installer les dépendances nécessaires :
 
    ```python
    TOKEN = "BOT_TOKEN"  # Remplacez par le token de votre bot
-   CHANNEL_ID = 1295786617428119664  # Remplacez par l'ID de votre canal
-   ROLE_ID = 1345067345911222443  # Remplacez par l'ID de votre rôle
+   CHANNEL_ID = 1234567890123456789 # Remplacez par l'ID du salon pour bumpe
+   ROLE_ID = 1234567890123456789 # Remplacez par l'ID du rôle qui vas etre ping toutes les 5 heurs
+   ````
+   Si vous n'avez pas de bot Discord, vous pouvez en créer un gratuitement [ici](https://discord.com/developers/applications).
