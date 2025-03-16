@@ -8,7 +8,7 @@ Un bot Discord simple pour automatiser les rappels de "bump" et fournir des info
 - **+info** : Affiche des informations sur le bot.
 - **+help** : Affiche le guide d'aide avec la liste des commandes disponibles.
 
-## Installation du Bot
+## Installation du Bot Windows (Pour les autres systèmes, contactez-moi sur Discord : deleted_user_562 ,ou sur mon serveur : https://discord.gg/kkuU6CbQBG).
 
 ### Étape 1 : Télécharger le projet
 
