@@ -8,7 +8,8 @@ Un bot Discord simple pour automatiser les rappels de "bump" et fournir des info
 - **+info** : Affiche des informations sur le bot.
 - **+help** : Affiche le guide d'aide avec la liste des commandes disponibles.
 
-## Installation du Bot Windows (Pour les autres systèmes, contactez-moi sur Discord : deleted_user_562 ,ou sur mon serveur : https://discord.gg/kkuU6CbQBG).
+## Installation du Bot sur Windows
+Pour les autres systèmes, contactez-moi sur Discord : deleted_user_562 ou sur [mon serveur](https://discord.gg/kkuU6CbQBG).
 
 ### Étape 1 : Télécharger le projet
 
@@ -29,16 +30,25 @@ Un bot Discord simple pour automatiser les rappels de "bump" et fournir des info
 
 ### Étape 3 : Installer Python et les dépendances
 
-1. Si vous n'avez pas encore installé **Python 3.8 ou plus récent**, vous pouvez le télécharger depuis [le site officiel de Python](https://www.python.org/downloads/).
+1. Si vous n'avez pas encore installé **Python**, vous pouvez le télécharger depuis [le site officiel de Python](https://www.python.org/downloads/).
 
 2. Ensuite, une fois Python installé, vous devez installer les dépendances du projet.
 
-   Allez dans le dossier où vous avez extrait le projet et ouvrez le terminal à cet endroit. Vous pouvez le faire en maintenant **Shift** et en cliquant droit dans le dossier, puis en sélectionnant **"Ouvrir la fenêtre PowerShell ici"** ou **"Ouvrir une fenêtre de commande ici"**.
-
-   ![Ouvrir PowerShell dans le dossier](./screenshots/open_powershell.png)
-
-3. Tapez ensuite la commande suivante pour installer les dépendances nécessaires :
+Tapez la commande suivante pour installer les dépendances nécessaires :
 
    ```bash
    pip install discord.py
-de détails.
+````
+
+## Étape 4 : Configuration du bot
+
+1. Ouvrez le fichier `bot.py` dans un éditeur de texte comme **Bloc note**.
+
+![Modifier dans Bloc-notes](pictures/ouvrir_avec_blocnote.png)
+
+3. Modifiez les lignes suivantes dans le fichier avec vos propres informations :
+
+   ```python
+   TOKEN = "BOT_TOKEN"  # Remplacez par le token de votre bot
+   CHANNEL_ID = 1295786617428119664  # Remplacez par l'ID de votre canal
+   ROLE_ID = 1345067345911222443  # Remplacez par l'ID de votre rôle
