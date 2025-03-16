@@ -8,9 +8,9 @@ import asyncio
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "BOT_TOKEN"
-CHANNEL_ID = 1295786617428119664
-ROLE_ID = 1345067345911222443
+TOKEN = "BOT_TOKEN"  # Remplacez par le token de votre bot
+CHANNEL_ID = 1234567890123456789  # Remplacez par l'ID du salon pour bumpe
+ROLE_ID = 1234567890123456789  # Remplacez par l'ID du rôle qui vas etre ping
 
 intents = discord.Intents.all()  # Permissions pour l'accès aux événements du bot
 bot = commands.Bot(command_prefix="+", intents=intents, help_command=None)
