@@ -45,7 +45,7 @@ Tapez la commande suivante pour installer les dépendances nécessaires :
 
 1. Ouvrez le fichier `bot.py` dans un éditeur de texte comme **Bloc note**.
 
-![Modifier dans Bloc-notes](pictures/ouvrir_avec_blocnote.png)
+![Modifier dans Bloc-notes](pictures/ouvrir_avec_blocnotes.png)
 
 3. Modifiez les lignes suivantes dans le fichier avec vos propres informations :
 
