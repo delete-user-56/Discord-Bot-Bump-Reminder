@@ -10,7 +10,7 @@ Un bot Discord simple pour automatiser les rappels de "bump" et fournir des info
 - **+help** : Affiche le guide d'aide avec la liste des commandes disponibles.
 
 ## Installation du Bot sur Windows
-Pour les autres systèmes, contactez-moi sur Discord : deleted_user_562 ou sur [mon serveur](https://discord.gg/kkuU6CbQBG).
+Pour les autres systèmes, contactez-moi sur Discord : deleted_user_562 ou sur [mon serveur](https://discord.gg/4mfFnV5yfA).
 
 ### Étape 1 : Télécharger le projet
 
@@ -64,10 +64,10 @@ Si vous aimez ce projet et que vous souhaitez me soutenir, voici quelques moyens
 
 🔗 **GitHub**  
 ⭐ Ajoutez une étoile au repo ! Cela m'aide énormément.  
-👉 [Mon GitHub](https://github.com/delete-user-56)
+👉 [Mon GitHub](https://github.com/2forgetitouan)
 
 💬 **Discord**  
 Rejoignez mon serveur Discord pour discuter, poser vos questions ou me donner des idées !  
-👉 [Mon serveur](https://discord.gg/kkuU6CbQBG)
+👉 [Mon serveur](https://discord.gg/4mfFnV5yfA)
 
 Merci pour votre soutien ! 🚀
