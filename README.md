@@ -70,12 +70,4 @@ Si vous aimez ce projet et que vous souhaitez me soutenir, voici quelques moyens
 Rejoignez mon serveur Discord pour discuter, poser vos questions ou me donner des idées !  
 👉 [Mon serveur](https://discord.gg/kkuU6CbQBG)
 
-📺 **YouTube**  
-Abonnez-vous à ma chaîne pour des vidéos de vues aériennes en drone !   
-👉 [Ma chaîne YouTube](https://www.youtube.com/@Vulcain56)
-
-📲 **Telegram**  
-Accédez à des logiciels débloqués/crackées et autres ressources intéressantes.   
-👉 [Mon Telegram](https://t.me/okcapart)
-
 Merci pour votre soutien ! 🚀
